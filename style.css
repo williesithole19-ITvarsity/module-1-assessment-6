@@ -1,0 +1,49 @@
+#menu a{
+
+    font-weight: 800;
+    padding-right: 40px;
+    text-decoration: none;
+    font-size: 20px;
+   
+    background-image: url("image/menu-button.gif");
+    background-repeat: no-repeat;
+    display: block;
+    width: 128px;
+    height: 25px;
+    padding-left: 18px;
+    float: left;
+    background-color: black;
+}
+ #menu a:hover{
+     background-image: url("image/menu-button-hover.gif");
+     color: bisque;
+ }
+
+ h1{
+     color: purple;
+     text-align: center;
+     background-color: gray;
+    
+ }
+h4{
+    color: skyblue;
+    font-size: xx-large;
+}
+
+.onsale img{
+    width: 100%;
+    background-color: black;
+
+}
+
+th{
+    font-weight: 800;
+    color: darkkhaki;
+}
+table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+}
+td{
+    color: cornflowerblue;
+}
